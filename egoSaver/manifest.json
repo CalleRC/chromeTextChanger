@@ -1,0 +1,13 @@
+{
+  "name": "Ego saver",
+  "description": "Replace words like 'Matematik C' with 'PDH studerende' on webmatematik.dk",
+  "version": "1.0",
+  "manifest_version": 2,
+  "permissions": [ "tabs", "*://*.webmatematik.dk/*" ],
+  "content_scripts": [
+    {
+      "matches": [ "*://*.webmatematik.dk/*" ],
+      "js": [ "content.js" ]
+    }
+  ]
+}
