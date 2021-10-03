@@ -1,4 +1,4 @@
-Download the files constent.js and manifest.html
+Download the files constent.js and manifest.json
 
 Open the Extension Management page by navigating to chrome://extensions.
 <ul>
