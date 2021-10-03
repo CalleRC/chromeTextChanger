@@ -1,3 +1,5 @@
+Download the files constent.js and manifest.html
+
 Open the Extension Management page by navigating to chrome://extensions.
 <ul>
   <li>Alternatively, open this page by clicking on the Extensions menu button and selecting Manage Extensions at the bottom of the menu.</li>
